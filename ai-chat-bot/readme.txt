@@ -1,0 +1,1 @@
+A part of smart chat bot project. It is intended to answer to the user's questions including specific terms and names of some external entities.

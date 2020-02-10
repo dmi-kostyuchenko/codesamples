@@ -1,0 +1,1 @@
+Just an example of payment system integration

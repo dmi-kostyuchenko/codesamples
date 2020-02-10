@@ -1,0 +1,1 @@
+A part of a little WPF project which prints long series (more than 30-50 at a time) of labels with QR codes
